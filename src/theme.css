@@ -1,0 +1,18 @@
+:root {
+    --font: 'Sora', sans-serif;
+    --bgPrimary: #FFFFFF;
+    --bgSecondary: #F9FAFB;
+    --bgTertiary: #F0F0F3;
+    --borderDark: #DDE7EB;
+    --borderLight: #E5EAED;
+    --accent: #A38025;
+    --dark1: #0B1032;
+    --dark2: #3C3D40;
+    --dark3: #464646;
+    --dark4: #1E2E3B;
+    --gray1: #6B7280;
+    --gray2: #6E819A;
+    --gray3: #A9ACB8;
+    --gray4: #C2CFE026;
+    --blueGray1: #97A8BE;
+}
